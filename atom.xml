@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://allen0408.github.io</id>
     <title>钟弋然的博客</title>
-    <updated>2020-06-07T09:10:19.770Z</updated>
+    <updated>2020-06-07T09:38:55.601Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://allen0408.github.io"/>
     <link rel="self" href="https://allen0408.github.io/atom.xml"/>
@@ -20,14 +20,30 @@
 ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[macOS软件下载网站]]></title>
+        <id>https://allen0408.github.io/post/macos-ruan-jian-xia-zai-wang-zhan/</id>
+        <link href="https://allen0408.github.io/post/macos-ruan-jian-xia-zai-wang-zhan/">
+        </link>
+        <updated>2020-06-07T08:52:15.000Z</updated>
+        <content type="html"><![CDATA[<ol>
+<li></li>
+</ol>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[在Mac上发挥你的创造力]]></title>
         <id>https://allen0408.github.io/post/zai-mac-shang-fa-hui-ni-de-chuang-zao-li/</id>
         <link href="https://allen0408.github.io/post/zai-mac-shang-fa-hui-ni-de-chuang-zao-li/">
         </link>
         <updated>2020-06-07T08:12:39.000Z</updated>
+        <summary type="html"><![CDATA[<h2 id="为什么选择macos"><strong>为什么选择macos？</strong></h2>
+<p>macOS虽然出自苹果之手，但很多人把macOS和iOS混为一谈，macOS毕竟是桌面系统，是可以给用户完整权限的。<br>
+很多人喜欢把Windows和macOS来对比性能，或者认为Mac不适合打游戏。但是macOS也并不吃性能，买了Mac肯定就不是奔着打游戏去的，而是创造，开发。</p>
+]]></summary>
         <content type="html"><![CDATA[<h2 id="为什么选择macos"><strong>为什么选择macos？</strong></h2>
 <p>macOS虽然出自苹果之手，但很多人把macOS和iOS混为一谈，macOS毕竟是桌面系统，是可以给用户完整权限的。<br>
 很多人喜欢把Windows和macOS来对比性能，或者认为Mac不适合打游戏。但是macOS也并不吃性能，买了Mac肯定就不是奔着打游戏去的，而是创造，开发。</p>
+<!-- more -->
 <p>优点：<br>
 得益于硬软一体，系统稳定性很高，即使你开再多的应用系统也不会卡，更不会突然崩溃，导致工作内容全无。<br>
 即使一个APP卡了，你还可以用其他没卡的APP。<br>
