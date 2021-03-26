@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://allen0408.github.io</id>
+    <id>https://1901.github.io</id>
     <title>钟弋然的博客</title>
-    <updated>2021-03-26T09:41:56.227Z</updated>
+    <updated>2021-03-26T09:45:42.299Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://allen0408.github.io"/>
-    <link rel="self" href="https://allen0408.github.io/atom.xml"/>
+    <link rel="alternate" href="https://1901.github.io"/>
+    <link rel="self" href="https://1901.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://allen0408.github.io/images/avatar.png</logo>
-    <icon>https://allen0408.github.io/favicon.ico</icon>
+    <logo>https://1901.github.io/images/avatar.png</logo>
+    <icon>https://1901.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 钟弋然的博客</rights>
     <entry>
         <title type="html"><![CDATA[快捷键]]></title>
-        <id>https://allen0408.github.io/post/kuai-jie-jian/</id>
-        <link href="https://allen0408.github.io/post/kuai-jie-jian/">
+        <id>https://1901.github.io/post/kuai-jie-jian/</id>
+        <link href="https://1901.github.io/post/kuai-jie-jian/">
         </link>
         <updated>2020-06-07T09:08:10.000Z</updated>
         <content type="html"><![CDATA[<p>cmd+n：新建 几乎所有软件内均可使用此快捷键新建，如pages，Photoshop</p>
@@ -21,8 +21,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[macOS软件下载网站]]></title>
-        <id>https://allen0408.github.io/post/macos-ruan-jian-xia-zai-wang-zhan/</id>
-        <link href="https://allen0408.github.io/post/macos-ruan-jian-xia-zai-wang-zhan/">
+        <id>https://1901.github.io/post/macos-ruan-jian-xia-zai-wang-zhan/</id>
+        <link href="https://1901.github.io/post/macos-ruan-jian-xia-zai-wang-zhan/">
         </link>
         <updated>2020-06-07T08:52:15.000Z</updated>
         <content type="html"><![CDATA[<ol>
@@ -32,8 +32,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[在Mac上发挥你的创造力]]></title>
-        <id>https://allen0408.github.io/post/zai-mac-shang-fa-hui-ni-de-chuang-zao-li/</id>
-        <link href="https://allen0408.github.io/post/zai-mac-shang-fa-hui-ni-de-chuang-zao-li/">
+        <id>https://1901.github.io/post/zai-mac-shang-fa-hui-ni-de-chuang-zao-li/</id>
+        <link href="https://1901.github.io/post/zai-mac-shang-fa-hui-ni-de-chuang-zao-li/">
         </link>
         <updated>2020-06-07T08:12:39.000Z</updated>
         <summary type="html"><![CDATA[<h2 id="为什么选择macos"><strong>为什么选择macos？</strong></h2>
@@ -77,8 +77,8 @@ Adobe以及众多音视频剪辑的软件是macOS的强项<br>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://allen0408.github.io/post/hello-gridea/</id>
-        <link href="https://allen0408.github.io/post/hello-gridea/">
+        <id>https://1901.github.io/post/hello-gridea/</id>
+        <link href="https://1901.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
