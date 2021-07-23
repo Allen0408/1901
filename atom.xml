@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Allen0408.github.io</id>
     <title>1901班的小窝</title>
-    <updated>2021-07-23T02:46:03.527Z</updated>
+    <updated>2021-07-23T03:27:43.904Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Allen0408.github.io"/>
     <link rel="self" href="https://Allen0408.github.io/atom.xml"/>
@@ -11,12 +11,77 @@
     <icon>https://Allen0408.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 1901班的小窝</rights>
     <entry>
+        <title type="html"><![CDATA[2021年元旦联欢会]]></title>
+        <id>https://Allen0408.github.io/2021-nian-yuan-dan-lian-huan-hui/</id>
+        <link href="https://Allen0408.github.io/2021-nian-yuan-dan-lian-huan-hui/">
+        </link>
+        <updated>2021-07-23T02:50:12.000Z</updated>
+        <content type="html"><![CDATA[<body>
+<div id="butong_net_left" style="overflow:hidden;width:500px;">
+<table cellpadding="0" cellspacing="0" border="0">
+<tr><td id="butong_net_left1" valign="top" align="center">
+<table cellpadding="2" cellspacing="0" border="0">
+<tr align="center">
+<td><img src="网页上传资料/2021年元旦联欢会/IMG_20201231_083707.jpg" width="403" height="302" alt=""/></td>
+<td><img src="网页上传资料/2021年元旦联欢会/IMG_20201231_083953.jpg" width="403" height="302" alt=""/></td>
+<td><img src="网页上传资料/2021年元旦联欢会/IMG_20201231_084402.jpg" width="403" height="302" alt=""/></td>
+<td><img src="网页上传资料/2021年元旦联欢会/IMG_20201231_084447.jpg" width="403" height="302" alt=""/></td>
+</tr>
+</table>
+</td>
+<td id="butong_net_left2" valign="top"></td>
+</tr>
+</table>
+</div>
+<script>
+var speed=30//速度数值越大速度越慢
+butong_net_left2.innerHTML=butong_net_left1.innerHTML
+function Marquee3(){
+if(butong_net_left2.offsetWidth-butong_net_left.scrollLeft<=0)
+butong_net_left.scrollLeft-=butong_net_left1.offsetWidth
+else{
+butong_net_left.scrollLeft++
+}
+}
+var MyMar3=setInterval(Marquee3,speed)
+butong_net_left.οnmοuseοver=function() {clearInterval(MyMar3)}
+butong_net_left.οnmοuseοut=function() {MyMar3=setInterval(Marquee3,speed)}
+</script>
+</body>
+<p><img src="https://Allen0408.github.io/post-images/1627008677251.jpg" alt="" loading="lazy"><br>
+<img src="https://Allen0408.github.io/post-images/1627008683963.jpg" alt="" loading="lazy"><br>
+<img src="https://Allen0408.github.io/post-images/1627008688407.jpg" alt="" loading="lazy"><br>
+<img src="https://Allen0408.github.io/post-images/1627008693415.jpg" alt="" loading="lazy"><br>
+<img src="https://Allen0408.github.io/post-images/1627008700097.jpg" alt="" loading="lazy"></p>
+<p><img src="https://Allen0408.github.io/post-images/1627008707728.jpg" alt="" loading="lazy"><br>
+<img src="https://Allen0408.github.io/post-images/1627008716862.jpg" alt="" loading="lazy"><br>
+<img src="https://Allen0408.github.io/post-images/1627008721679.jpg" alt="" loading="lazy"><br>
+<img src="https://Allen0408.github.io/post-images/1627008726081.jpg" alt="" loading="lazy"><br>
+<img src="https://Allen0408.github.io/post-images/1627008731026.jpg" alt="" loading="lazy"></p>
+<table><tr>
+<td><img src=![](https://Allen0408.github.io/post-images/1627008841522.jpg) border=0></td>
+<td><img src=![](https://Allen0408.github.io/post-images/1627008863104.jpg) border=0></td>
+</tr></table>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[19.1班建国71周年班会]]></title>
-        <id>https://Allen0408.github.io/191-ban-jian-guo-71-zhou-nian-ban-hui/</id>
-        <link href="https://Allen0408.github.io/191-ban-jian-guo-71-zhou-nian-ban-hui/">
+        <id>https://Allen0408.github.io/1901China71/</id>
+        <link href="https://Allen0408.github.io/1901China71/">
         </link>
         <updated>2021-07-23T02:43:26.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://Allen0408.github.io/post-images/1627008341418.jpg" alt="" loading="lazy"></figure>
+        <summary type="html"><![CDATA[<p><img src="https://Allen0408.github.io/post-images/1627008341418.jpg" alt="" loading="lazy"><br>
+<img src="https://Allen0408.github.io/post-images/1627008478528.jpg" alt="" loading="lazy"><br>
+<img src="https://Allen0408.github.io/post-images/1627008483124.jpg" alt="" loading="lazy"><br>
+<img src="https://Allen0408.github.io/post-images/1627008488580.jpg" alt="" loading="lazy"><br>
+<img src="https://Allen0408.github.io/post-images/1627008496067.jpg" alt="" loading="lazy"></p>
+]]></summary>
+        <content type="html"><![CDATA[<p><img src="https://Allen0408.github.io/post-images/1627008341418.jpg" alt="" loading="lazy"><br>
+<img src="https://Allen0408.github.io/post-images/1627008478528.jpg" alt="" loading="lazy"><br>
+<img src="https://Allen0408.github.io/post-images/1627008483124.jpg" alt="" loading="lazy"><br>
+<img src="https://Allen0408.github.io/post-images/1627008488580.jpg" alt="" loading="lazy"><br>
+<img src="https://Allen0408.github.io/post-images/1627008496067.jpg" alt="" loading="lazy"></p>
+<!-- more -->
 ]]></content>
     </entry>
     <entry>
