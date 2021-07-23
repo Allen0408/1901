@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Allen0408.github.io</id>
     <title>1901班的小窝</title>
-    <updated>2021-07-23T03:27:43.904Z</updated>
+    <updated>2021-07-23T03:54:35.069Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Allen0408.github.io"/>
     <link rel="self" href="https://Allen0408.github.io/atom.xml"/>
@@ -11,44 +11,244 @@
     <icon>https://Allen0408.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 1901班的小窝</rights>
     <entry>
+        <title type="html"><![CDATA[学生一日常规及量化细则]]></title>
+        <id>https://Allen0408.github.io/xue-sheng-yi-ri-chang-gui-ji-liang-hua-xi-ze/</id>
+        <link href="https://Allen0408.github.io/xue-sheng-yi-ri-chang-gui-ji-liang-hua-xi-ze/">
+        </link>
+        <updated>2021-07-23T03:34:19.000Z</updated>
+        <content type="html"><![CDATA[<table width="100%" border="0">
+  <tbody>
+    <tr>
+      <td width="17%" align="center">项目</td>
+      <td width="40%" align="center">要求</td>
+      <td width="43%" align="center">量化细则</td>
+    </tr>
+    <tr>
+      <td align="center">晨评</td>
+      <td align="center"><table border="1" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="309"><p>7:30铃声响后在教室内安静听班主任晨评或自习，值日等一切活动停止，不允许在教室内吃东西。 </p></td>
+        </tr>
+      </table></td>
+      <td align="center"><table border="1" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="202"><p align="left">违纪者每人次扣1分。 </p></td>
+        </tr>
+      </table></td>
+    </tr>
+    <tr>
+      <td height="19" align="center">仪容仪表</td>
+      <td align="center"><table border="1" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="309"><p>穿戴要符合学校要求；男生不允许留长发、烫发和染发，女生不允许披散发和烫发，化妆；不允许佩戴首饰、吉祥物等。 </p></td>
+        </tr>
+      </table></td>
+      <td align="center"><table border="1" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="202"><p align="left">不合格者每人次扣1分。 </p></td>
+        </tr>
+      </table></td>
+    </tr>
+    <tr>
+      <td align="center">校服校卡</td>
+      <td align="center"><table border="1" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="309"><p>学生进校穿校服，佩戴校卡，不得在校服上涂画，不得穿涂画的校服到校。 </p></td>
+        </tr>
+      </table></td>
+      <td align="center"><table border="1" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="202"><p align="left">不合格者每人次扣1分。 </p></td>
+        </tr>
+      </table></td>
+    </tr>
+    <tr>
+      <td align="center">出勤</td>
+      <td align="center"><table border="1" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="309"><p>学生按时到校上课，不迟到、早退，不准旷课。 </p></td>
+        </tr>
+      </table></td>
+      <td align="center"><table border="1" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="202"><p align="left">迟到、早退每人次扣1分；旷课一节扣2分。 </p></td>
+        </tr>
+      </table></td>
+    </tr>
+    <tr>
+      <td align="center">卫生</td>
+      <td align="center"><table border="1" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="309"><p>搞好个人和环境卫生，保持室内外整洁，值日生按要求坚持每周大扫除、每日按时三清扫（早晨、中午、放学）。 </p></td>
+        </tr>
+      </table></td>
+      <td align="center"><table border="1" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="202"><p align="left">不按要求打扫卫生的，根据情节每次扣1-2分；班级卫生不能保持整洁者每次扣1分。 </p></td>
+        </tr>
+      </table></td>
+    </tr>
+    <tr>
+      <td align="center">课堂</td>
+      <td align="center"><table border="1" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="309"><p>二分钟铃响后，迅速有秩序地进入教室；上实验课安静地在规定地点集合，列队有序地进入实验室，静候教室上课；课堂上要坐姿端正，专心听讲，积极发言，发言用普通话。上课期间不允许睡觉、吃东西、玩手机；遵守实验课规定，服从教室管理与安排，爱惜实验设备。 </p></td>
+        </tr>
+      </table></td>
+      <td align="center"><table border="1" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="202"><p align="left">上课迟到、早退、实验课站队大声喧哗、不带鞋套每人次扣1分。上课睡觉、严重扰乱课堂纪律每人次扣2分，故意破坏实验设备除照价赔偿外，每人次扣10分。 </p></td>
+        </tr>
+      </table></td>
+    </tr>
+    <tr>
+      <td align="center">课间操</td>
+      <td align="center"><table border="1" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="309"><p>列队要快、静、齐，做操认真、动作规范，体育委员要领操。 </p></td>
+        </tr>
+      </table></td>
+      <td align="center"><table border="1" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="202"><p align="left">无故缺勤一次扣2分，做操不认真每节扣1分。 </p></td>
+        </tr>
+      </table></td>
+    </tr>
+    <tr>
+      <td align="center">眼保健操</td>
+      <td align="center"><table border="1" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="309"><p>认真做好眼保健操。 </p></td>
+        </tr>
+      </table></td>
+      <td align="center"><table border="1" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="202"><p align="left">眼保健操不认真做的每次扣1分。 </p></td>
+        </tr>
+      </table></td>
+    </tr>
+    <tr>
+      <td align="center">课间、中午以及放学秩序</td>
+      <td align="center"><table border="1" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="309"><p>保持室内及走廊安静，做好课前准备，走廊内行走要轻声慢步，一律右行礼让，不准逗留，见到师长让路问好。中午按照学校要求按时午休。下午放学按时回家。 </p></td>
+        </tr>
+      </table></td>
+      <td align="center"><table border="1" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="202"><p align="left">对违反纪律的每次扣1-2分。 </p></td>
+        </tr>
+      </table></td>
+    </tr>
+    <tr>
+      <td align="center">午休</td>
+      <td align="center"><table border="1" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="309"><p>不迟到、缺席，不提前结束午休；不互相干扰，不讲话、不走动，不随意进出教室等； </p></td>
+        </tr>
+      </table></td>
+      <td align="center"><table border="1" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="202"><p align="left">违反者每人次扣1分。 </p></td>
+        </tr>
+      </table></td>
+    </tr>
+    <tr>
+      <td align="center">完成作业</td>
+      <td align="center"><table border="1" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="309"><p>按照任课教师要求独立、即使、认真完成各科作业。 </p></td>
+        </tr>
+      </table></td>
+      <td align="center"><table border="1" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="202"><p align="left">不完成作业每次扣2分，不及时交作业每次扣1分。 </p></td>
+        </tr>
+      </table></td>
+    </tr>
+    <tr>
+      <td align="center">文明礼貌</td>
+      <td align="center"><table border="1" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="309"><p>尊敬师长，团结同学，主动使用普通话，见到长辈、老师、客人主动讲文明用语&ldquo;十字&rdquo;：您好、请、谢谢、对不起、再见。客人进入教室后，要起立鼓掌欢迎，走出要鼓掌欢送，讲话要文明，不带脏字，要自律。 </p></td>
+        </tr>
+      </table></td>
+      <td align="center"><table border="1" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="202"><p align="left">对不讲文明礼貌行为每次扣1-2分。 </p></td>
+        </tr>
+      </table></td>
+    </tr>
+    <tr>
+      <td align="center">爱护公物</td>
+      <td align="center"><table border="1" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="309"><p>爱护桌椅、门窗玻璃、花草树木等学校一切公共设施，节约用水，不准动电线、电开关等设备。 </p></td>
+        </tr>
+      </table></td>
+      <td align="center"><table border="1" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="202"><p align="left">对破坏公物的，除照价赔偿外，每次扣2分。 </p></td>
+        </tr>
+      </table></td>
+    </tr>
+    <tr>
+      <td align="center">住校生</td>
+      <td align="center"><table border="1" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="309" height="23"><table border="1" cellspacing="0" cellpadding="0">
+            <tr>
+              <td width="309"><p>严格遵守班级规定和电子学校住校生管理规定 </p></td>
+            </tr>
+          </table></td>
+        </tr>
+      </table></td>
+      <td align="center"><table border="1" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="202"><p align="left">住校量化成绩纳入班级个人量化 </p></td>
+        </tr>
+      </table></td>
+    </tr>
+    <tr>
+      <td rowspan="2" align="center">奖励</td>
+      <td align="center"><table border="1" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="309"><p>参加学校组织的各项活动以及代表学校参赛，取得个人名次，学校对学生本人给予奖励。 </p></td>
+        </tr>
+      </table></td>
+      <td align="center"><table border="1" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="202"><p align="left">代表学校参赛，取得个人奖，没人加10—30分（市、省、国家）学校单项比赛，取得个人奖，每人加5分。 </p></td>
+        </tr>
+      </table></td>
+    </tr>
+    <tr>
+      <td align="center"><table border="1" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="309"><p>做好人好事；在学校各项活动和日常表现中起到模范带头作用；学习态度端正，学习成绩进步显著；表现突出的学生。 </p></td>
+          </tr>
+      </table></td>
+      <td align="center"><table border="1" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="202"><p>视情况每人次加1—10分。 </p></td>
+        </tr>
+      </table></td>
+    </tr>
+  </tbody>
+</table>
+<p>1.每位同学的得分由班主任根据学生表现、班级课堂出勤统计等情况，按照量化细则每日计算，并建立可视文件夹予以公示。<br>
+2. 每位学生每学期德育量化满分为200分，德育学分每学期满分为4学分。德育量化得分160分—169分，德育学分的1分；德育量化得分170分—179分，德育学分得2学分；德育量化得分180分—189分，德育学分得3学分；德育量化得分190-200分，德育学分得4学分。<br>
+3.每位住校生每学期住校表现量化满分为200分，按照《青岛电子学校住校生一日常规量化细则》，由学生处及宿舍管理员每日量化，学期末由学生处将住校生量化总分反馈给班主任，由班主任合计住校生德育量化总分。住校生学期德育量化总分=住校生学期量化总分×40%+德育量化分×60%。<br>
+4.学生学期德育量化扣分（不含受处分扣分，住校和德育量化公开累计）累计达30分予以通报批评，扣分达60分予以警告以上处分，扣分达100分予以记过以上处分。因违纪受到学校处分者，受留校察看、记过、严重警告、警告处分者，德育量化分别扣40、30、20、10分。</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2021年元旦联欢会]]></title>
         <id>https://Allen0408.github.io/2021-nian-yuan-dan-lian-huan-hui/</id>
         <link href="https://Allen0408.github.io/2021-nian-yuan-dan-lian-huan-hui/">
         </link>
         <updated>2021-07-23T02:50:12.000Z</updated>
-        <content type="html"><![CDATA[<body>
-<div id="butong_net_left" style="overflow:hidden;width:500px;">
-<table cellpadding="0" cellspacing="0" border="0">
-<tr><td id="butong_net_left1" valign="top" align="center">
-<table cellpadding="2" cellspacing="0" border="0">
-<tr align="center">
-<td><img src="网页上传资料/2021年元旦联欢会/IMG_20201231_083707.jpg" width="403" height="302" alt=""/></td>
-<td><img src="网页上传资料/2021年元旦联欢会/IMG_20201231_083953.jpg" width="403" height="302" alt=""/></td>
-<td><img src="网页上传资料/2021年元旦联欢会/IMG_20201231_084402.jpg" width="403" height="302" alt=""/></td>
-<td><img src="网页上传资料/2021年元旦联欢会/IMG_20201231_084447.jpg" width="403" height="302" alt=""/></td>
-</tr>
-</table>
-</td>
-<td id="butong_net_left2" valign="top"></td>
-</tr>
-</table>
-</div>
-<script>
-var speed=30//速度数值越大速度越慢
-butong_net_left2.innerHTML=butong_net_left1.innerHTML
-function Marquee3(){
-if(butong_net_left2.offsetWidth-butong_net_left.scrollLeft<=0)
-butong_net_left.scrollLeft-=butong_net_left1.offsetWidth
-else{
-butong_net_left.scrollLeft++
-}
-}
-var MyMar3=setInterval(Marquee3,speed)
-butong_net_left.οnmοuseοver=function() {clearInterval(MyMar3)}
-butong_net_left.οnmοuseοut=function() {MyMar3=setInterval(Marquee3,speed)}
-</script>
-</body>
-<p><img src="https://Allen0408.github.io/post-images/1627008677251.jpg" alt="" loading="lazy"><br>
+        <content type="html"><![CDATA[<p><img src="https://Allen0408.github.io/post-images/1627008677251.jpg" alt="" loading="lazy"><br>
 <img src="https://Allen0408.github.io/post-images/1627008683963.jpg" alt="" loading="lazy"><br>
 <img src="https://Allen0408.github.io/post-images/1627008688407.jpg" alt="" loading="lazy"><br>
 <img src="https://Allen0408.github.io/post-images/1627008693415.jpg" alt="" loading="lazy"><br>
@@ -58,10 +258,19 @@ butong_net_left.οnmοuseοut=function() {MyMar3=setInterval(Marquee3,speed)}
 <img src="https://Allen0408.github.io/post-images/1627008721679.jpg" alt="" loading="lazy"><br>
 <img src="https://Allen0408.github.io/post-images/1627008726081.jpg" alt="" loading="lazy"><br>
 <img src="https://Allen0408.github.io/post-images/1627008731026.jpg" alt="" loading="lazy"></p>
-<table><tr>
-<td><img src=![](https://Allen0408.github.io/post-images/1627008841522.jpg) border=0></td>
-<td><img src=![](https://Allen0408.github.io/post-images/1627008863104.jpg) border=0></td>
-</tr></table>
+<p><img src="https://Allen0408.github.io/post-images/1627010962544.jpg" alt="" loading="lazy"><br>
+<img src="https://Allen0408.github.io/post-images/1627010969074.jpg" alt="" loading="lazy"><br>
+<img src="https://Allen0408.github.io/post-images/1627010977157.jpg" alt="" loading="lazy"><br>
+<img src="https://Allen0408.github.io/post-images/1627010982548.jpg" alt="" loading="lazy"><br>
+<img src="https://Allen0408.github.io/post-images/1627010987776.jpg" alt="" loading="lazy"></p>
+<p><img src="https://Allen0408.github.io/post-images/1627011074124.jpg" alt="" loading="lazy"><br>
+<img src="https://Allen0408.github.io/post-images/1627011086259.jpg" alt="" loading="lazy"><br>
+<img src="https://Allen0408.github.io/post-images/1627011096571.jpg" alt="" loading="lazy"><br>
+<img src="https://Allen0408.github.io/post-images/1627011103523.jpg" alt="" loading="lazy"><br>
+<img src="https://Allen0408.github.io/post-images/1627011109404.jpg" alt="" loading="lazy"></p>
+<p><img src="https://Allen0408.github.io/post-images/1627011117950.jpg" alt="" loading="lazy"><br>
+<img src="https://Allen0408.github.io/post-images/1627011126270.jpg" alt="" loading="lazy"><br>
+<img src="https://Allen0408.github.io/post-images/1627011133757.jpg" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
     <entry>
